@@ -1,5 +1,7 @@
 # ImpSolve_EDM
-Implementation of implicid numerical methods for solving Equilibrium dispersive model in python scripts and documents with formal mathematical descriptions.
+Implementation of implicid numerical methods for solving Equilibrium dispersive model 
+
+Repository contains python scripts and documents with formal mathematical descriptions.
 
 created by 
 Ing. Tomas Svoboda
