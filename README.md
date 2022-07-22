@@ -3,8 +3,11 @@ Implementation of implicid numerical methods for solving Equilibrium dispersive 
 
 created by 
 Ing. Tomas Svoboda
+
 University of Chemistry and Technology
+
 Department of Carbohydrates and Cereals
+
 tomas3.svoboda@vscht.cz
 
 ...as a part of dissertation thesis called 
